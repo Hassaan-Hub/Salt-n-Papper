@@ -137,5 +137,89 @@ body {
 }
 
 
-/* ================= */
+/* ================= 3*/
 
+.container3 {
+  width: 100%;
+  height: 1000px;
+  background-color: #1a1a1a;
+}
+
+.head1{
+  color: white;
+  font-size: 55px;
+  letter-spacing: -3px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 290px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  line-height: 1;
+}
+
+.head2{
+  color: rgb(255, 249, 249);
+  font-size: 50px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.images1{
+  margin-top: 20px;
+  margin-left: 66px;
+}
+
+.secLastIcons{
+  margin-left: 20px;  
+}
+
+.peraMin{
+  margin-left: 40px;
+}
+
+.peraMin1{
+  display: inline-block;
+  justify-content: center;
+  text-align: center;
+  margin-left: 60px;
+  width: 310px;
+}
+
+/* =====alg alag pera */
+
+.imgP1{
+  color: rgb(180, 0, 0);
+  letter-spacing: 5px;
+  font-size: small;
+}
+
+.imgP2{
+  font-size: x-large;
+  letter-spacing: -2px;
+  margin: 0;
+}
+
+.imgP3{
+  font-size: small;
+  color: #d0c8c8;
+  margin-top: 20px;
+}
+
+.imgP4{
+  color: #d0c8c8;
+  margin-top: 25px;
+}
+
+.imgP5{
+  border: 1px solid #fff;
+  border-radius: 100px;
+  padding: 10px 20px;
+  margin-top: 30px;
+  cursor: pointer;
+}
+
+/* last image */
+
+.images2{
+  margin-left: 370px;
+}
